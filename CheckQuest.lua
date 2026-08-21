@@ -373,15 +373,15 @@ function CheckQuest()
             LevelQuest = 1
             NameQuest = "PiratePortQuest"
             NameMon = "Pirate Millionaire"
-            CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, 0.965929627, -0, -0.258804798, 0, 1, -0, 0.258804798, 0, 0.965929627)
-            CFrameMon = CFrame.new(-245.9963836669922, 47.30615234375, 5584.1005859375)
+            CFrameQuest = CFrame.new(-450.086029, 108.637024, 5950.70752, 0.892645478, 0.0184001364, -0.450383812, -0.00434371643, 0.999471188, 0.0322236419, 0.450738549, -0.0268079564, 0.892253399)
+            CFrameMon = CFrame.new(-131.175934, 50.9264908, 5763.71436, 0.258864343, 0, 0.965913713, 0, 1, 0, -0.965913713, 0, 0.258864343)
         elseif MyLevel >= 1525 and MyLevel <= 1574 then
             Mon = "Pistol Billionaire"
             LevelQuest = 2
             NameQuest = "PiratePortQuest"
             NameMon = "Pistol Billionaire"
-            CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, 0.965929627, -0, -0.258804798, 0, 1, -0, 0.258804798, 0, 0.965929627)
-            CFrameMon = CFrame.new(-187.3301544189453, 86.23987579345703, 6013.513671875)
+            CFrameQuest = CFrame.new(-450.086029, 108.637024, 5950.70752, 0.892645478, 0.0184001364, -0.450383812, -0.00434371643, 0.999471188, 0.0322236419, 0.450738549, -0.0268079564, 0.892253399)
+            CFrameMon = CFrame.new(-638.581543, 50.9266357, 5627.74951, 0.258864343, 0, 0.965913713, 0, 1, 0, -0.965913713, 0, 0.258864343)
         elseif MyLevel >= 1575 and MyLevel <= 1599 then
             Mon = "Dragon Crew Warrior"
             LevelQuest = 1
